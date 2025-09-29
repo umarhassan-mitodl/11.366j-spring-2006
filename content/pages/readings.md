@@ -3,6 +3,8 @@ content_type: page
 description: This section provides the reading assignments for the course, organized
   by session and topic.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -67,9 +69,9 @@ Guest: Rosalie Anders, Cambridge Department of Community Planning Steven Lanou, 
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "926e685a-e632-4a48-97e4-839703cd45b2" "Cambridge Climate Change Protection Plan" %}}
+[Cambridge Climate Change Protection Plan](http://www.cambridgema.gov/CDD/climateandenergy/climatechangeplanning.aspx)
 
-Armstrong, Robert, and Ernest Moniz. "Report of the Energy Research Council." Cambridge, MA: MIT Energy Research Council, May 3, 2006. ({{% resource_link "a58dda6d-9dd7-4097-914a-67b8779a67a7" "PDF - 2.4 MB" %}})
+Armstrong, Robert, and Ernest Moniz. "Report of the Energy Research Council." Cambridge, MA: MIT Energy Research Council, May 3, 2006. ([PDF - 2.4 MB](http://web.mit.edu/mitei/about/erc-report-final.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5

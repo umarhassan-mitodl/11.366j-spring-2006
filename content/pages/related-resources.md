@@ -9,84 +9,84 @@ uid: 380c3f78-0842-60da-e743-80ebedbd6189
 ---
 ## Massachusetts
 
-{{% resource_link "9f39d91e-1ce2-4ad9-b6f6-32ad88eca514" "Massachusetts State Sustainability" %}}
+[Massachusetts State Sustainability](https://www.mass.gov/doc/10-sustainability-resources-and-programs-in-ma/download)
 
-{{% resource_link "ea2be61b-5769-4296-b94d-3385db7f72e4" "ICLEI Personal CO" %}}{{< sub "2" >}}{{% resource_link "ea2be61b-5769-4296-b94d-3385db7f72e4" "Calculator" %}}
+[ICLEI Personal CO](http://www.co2list.org/files/calculators.htm){{< sub "2" >}}[Calculator](http://www.co2list.org/files/calculators.htm)
 
 Harvard Green Campus Initiative
 
-{{% resource_link "e621a1e4-5ff0-413f-b168-e0a1dd5b4b64" "Massachusetts Climate Action Network" %}}
+[Massachusetts Climate Action Network](http://www.massclimateaction.org/)
 
-{{% resource_link "f8aa7a45-a75e-4283-a1a8-01fa8ba66041" "Northeast Sustainable Energy Association" %}}
+[Northeast Sustainable Energy Association](http://www.nesea.org/)
 
-{{% resource_link "9d57296a-6f5f-4cb9-8903-6f6bab4cafc6" "The Green Roundtable" %}}
+[The Green Roundtable](http://www.ceres.org/about-us/coalition/coalition-members/green-roundtable)
 
 ## UK and Ireland
 
-{{% resource_link "c6ab9166-1d1c-4e69-a39f-8f964736d036" "Sustainable Development Commission" %}}
+[Sustainable Development Commission](http://www.sd-commission.org.uk/)
 
-{{% resource_link "7f4b8fc5-1309-4f9a-a5dc-01c1412b6416" "New Economics Foundation, UK" %}}
+[New Economics Foundation, UK](https://neweconomics.org/)
 
 Environ, Leicester, UK
 
-{{% resource_link "db967ada-6285-4274-9701-01e2dbdbc40a" "Foundation for the Economics of Sustainability" %}}
+[Foundation for the Economics of Sustainability](http://www.feasta.org/)
 
-{{% resource_link "adff10b1-40e8-404b-a3cc-c4bab20bc4e5" "Our Southwest" %}}
+[Our Southwest](http://www.oursouthwest.com/)
 
-{{% resource_link "2b07e9f8-68f9-4433-85d2-9e0ba68a4108" "The Local Sustainability Strategy for Cardiff" %}}
+[The Local Sustainability Strategy for Cardiff](https://www.oneplanetcardiff.co.uk/)
 
-{{% resource_link "5ee8d001-f243-4ff2-9c2d-33f66c73f5ab" "Sustainable Cities Research Institute" %}}
+[Sustainable Cities Research Institute](http://www.sustainablecitiesinstitute.org/)
 
 ## Australia
 
-{{% resource_link "1869f879-72ca-40ae-94c9-1fb5ea4c02a7" "Australian Government,l Department of Environment and Heritage Local Agenda 21 Program" %}}
+[Australian Government,l Department of Environment and Heritage Local Agenda 21 Program](http://aries.mq.edu.au/handbook/files/6-WhatIsLocalAg.pdf)
 
-{{% resource_link "0eabac83-543b-42fa-8761-14a9b6226062" "Victorian Local Sustainability Accord" %}}
+[Victorian Local Sustainability Accord](http://www.dse.vic.gov.au/conservation-and-environment/sustainability/victorian-local-sustainability-accord)
 
 ## U.S.
 
-{{% resource_link "95e74442-2bad-4609-b934-365b864d1b46" "City of Portland, Office of Sustainable Development" %}}
+[City of Portland, Office of Sustainable Development](http://www.sustainableportland.org/)
 
-{{% resource_link "c297498e-8e21-405f-8c81-545a9cb9c040" "Sustainable Seattle" %}}
+[Sustainable Seattle](http://www.sustainableseattle.org/)
 
-{{% resource_link "eebe1fb3-df45-4a8d-b5be-95ec55ccbcf7" "Austin Sustainable Communities Initiative" %}}
+[Austin Sustainable Communities Initiative](https://www.greenpolicy360.net/w/Austin,_TX_Sustainable_Communities_Initiative)
 
-{{% resource_link "f2e489a9-244e-4cb2-8d52-7a7236acfb29" "Boulder Area Sustainability Information Network" %}}
+[Boulder Area Sustainability Information Network](http://bcn.boulder.co.us/basin/)
 
 Redefining Progress
 
 The Smart Communities Network
 
-{{% resource_link "410ae170-2eb7-43de-9695-b5ae55f8422b" "SUSTAIN: Youth Network for Sustainable Development" %}}
+[SUSTAIN: Youth Network for Sustainable Development](http://sustainus.org/)
 
-{{% resource_link "a1ee62cf-348f-40bf-883c-4e6766be0dfd" "Institute for Local Self Reliance" %}}
+[Institute for Local Self Reliance](http://www.ilsr.org/)
 
-{{% resource_link "a5faa754-a832-4479-aa00-0c9d1cb15a4b" "U.S. Conference of Mayors" %}}
+[U.S. Conference of Mayors](https://www.usmayors.org/)
 
 ## Continental Europe
 
-{{% resource_link "98655020-a4a5-4f7e-828f-2aa87e4b872f" "Sustainable Urban Development in Europe (PDF - 7.5MB)" %}} (Index of Cases by City)
+[Sustainable Urban Development in Europe (PDF - 7.5MB)](http://ec.europa.eu/regional_policy/sources/docgener/presenta/urban2009/urban2009_en.pdf) (Index of Cases by City)
 
-{{% resource_link "da5c8018-75f5-4451-a058-2ecf18d13366" "NCDO (Netherlands)" %}}
+[NCDO (Netherlands)](http://www.ncdo.nl/)
 
-{{% resource_link "79ed09c5-aac4-4f89-bb34-cc497891ce35" "The Earth Charter Initiative" %}}
+[The Earth Charter Initiative](https://www.oneplanetnetwork.org/initiative/earth-charter-initiative)
 
-{{% resource_link "e4ea53f5-8d98-4ab3-a786-e8eac445ec9f" "Local Sustainability Mirror" %}}
+[Local Sustainability Mirror](http://www.informaworld.com/smpp/content~db=all~content=a778130644)
 
-{{% resource_link "44ddd412-c174-49c5-b9be-122faef62e03" "Northern Alliance for Sustainable Development" %}}
+[Northern Alliance for Sustainable Development](http://www.anped.org/index.php?part=4&section=home&reference=0)
 
 ## General
 
-{{% resource_link "4f19ba2e-f6ec-435d-8c82-ea58a68c4f0a" "ICLEI - Local Governments for Sustainability" %}}
+[ICLEI - Local Governments for Sustainability](https://iclei.org/)
 
 Local Sustainability: European Good Practice Information Service
 
 Rio +5: Managing Local Sustainability
 
-{{% resource_link "dfb98ea9-de8f-4e65-ac65-96eb4f6ea8cb" "The Earth Charter Initiative" %}}
+[The Earth Charter Initiative](http://www.earthcharterinaction.org/content/)
 
-{{% resource_link "67425197-3026-45b6-b720-f4e115d5001a" "Local Agenda 21" %}}
+[Local Agenda 21](https://www.gdrc.org/sustdev/concepts/18-la21.html)
 
 Network for Science and Technology for Sustainability
 
-{{% resource_link "6926dd69-d4b1-4126-bc43-d8da9205d983" "World Business Council for Sustainable Development" %}}
+[World Business Council for Sustainable Development](http://www.wbcsd.org/)
